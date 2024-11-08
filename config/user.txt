@@ -1,0 +1,22 @@
+{
+  "username": "testuser",
+  "password": "testpassword",
+  "name": "John",
+  "lastName": "Doe",
+  "email": "john.doe@example.com",
+  "userType": "admin"
+}
+
+{
+    "username": "testuser",
+    "password": "$2a$10$pP/z/a9F41xhlWqdw8J/COOkGT8qWCh8W4TMt0tFa8uiGFE8b2CTK",
+    "name": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "userType": "admin",
+    "_id": "672d664b89f1054c5ae343fa",
+    "createdAt": "2024-11-08T01:15:55.238Z",
+    "__v": 0
+}
+
+---
